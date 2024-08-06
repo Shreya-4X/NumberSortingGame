@@ -6,6 +6,7 @@ The Selection Sort Puzzle is an interactive Java application that challenges use
 In you're IDE, Create the SelectionSortPuzzle.java file and Copy the code in your preferred IDE and run it.
 
 #Running the Application
+
 Start Screen: When you run the application, you'll see the start screen titled "Sorting Algorithm Game" with an "Enter" button.
 Game Window: Click the "Enter" button to proceed to the game window.
 A 3x3 grid of buttons will display randomly generated numbers.
