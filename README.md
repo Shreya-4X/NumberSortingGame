@@ -2,8 +2,8 @@
 The Selection Sort Puzzle is an interactive Java application that challenges users to sort an array of numbers using the selection sort algorithm. The game includes a graphical user interface (GUI) created with Swing, making it both educational and engaging. The application features a timer to track how long it takes to complete the sorting task, providing a competitive element for users.
 
 # Setting Up the Project
-Open the project in your preferred IDE or text editor.
-In you're IDE, locate the SelectionSortPuzzle.java file and run it.
+
+In you're IDE, Create the SelectionSortPuzzle.java file and Copy the code in your preferred IDE and run it.
 
 # Running the Application
 Start Screen: When you run the application, you'll see the start screen titled "Sorting Algorithm Game" with an "Enter" button.
